@@ -1,1 +1,1 @@
-# python-program-costs-and-revenues
+School project. Costs and Revenue calculator
